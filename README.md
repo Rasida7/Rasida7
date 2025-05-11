@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rasida7
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C, HTML, JAVA
+- 🌱 I’m currently learning C, HTML, JAVA, Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rasidakmiya7@gmail.com
 - 😄 Pronouns: She/Her
